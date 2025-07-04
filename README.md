@@ -1,5 +1,5 @@
-# 🌍 Global Air Quality Classification
-### Predicting Health Risk from Pollution & Weather Data
+# 🌍 What is in the Air?
+### Classifying Global Air Quality with Pollution & Weather Signals”
 
 ---
 
